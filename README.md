@@ -25,7 +25,7 @@ Sentiment Analysis - Package.ipynb
 
 #### Modelling:  
 
-Overall Sentiment Score .ipynb  
+Overall Sentiment Score.ipynb  
 20210422_modelling.ipynb  
 
 
