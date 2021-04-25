@@ -4,11 +4,11 @@
 
 ### team: 
 
-Anqi Dong (A0218944W)  
+Dong Anqi(A0218944W)  
 Hui Xinyao (A0148006M)   
 Zhao Dongyu (A0206513R)  
-Xinyi Li (A0218908W)  
-Zhang Yixuan (A0218975M)  
+Li Xinyi (A0218908W)  
+Zhang Yixuan(A0218975M)  
 
 ### code:
 
