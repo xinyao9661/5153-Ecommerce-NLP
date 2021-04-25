@@ -2,6 +2,14 @@
 
 ### Ranking Forecast on Hair Care Products
 
+### team: 
+
+Anqi Dong (A0218944W)
+Hui Xinyao (A0148006M) 
+Zhao Dongyu (A0206513R)
+Xinyi Li (A0218908W)
+Zhang Yixuan (A0218975M)
+
 ### code:
 
 #### Data preprocssing and keywrods extraction:  
