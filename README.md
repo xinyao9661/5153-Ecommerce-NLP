@@ -39,11 +39,20 @@ Overall Sentiment Score.ipynb
 
 ### data:
 
-reviews_full_cond and sham_no duplicates.csv  
-meta_and_review_sentiment_delivery_customer_package_price_updated.csv  
-meta_and_review_original.csv  
-functions_and_aspects_v2.csv  
+#### original dataset from Amazon
 
+meta_Beauty.json(larger than 25mb, so only sample)  
+reviews_Beaut.json(larger than 25mb, so only sample)  
+
+### dataset after preprocessing
+
+meta_and_review_original.csv  
+
+### dataset with all features
+meta_and_review_with_functions_and_all_aspects.csv (1st approach) (larger than 25mb, so only sample)    
+functions_and_aspects_v2.csv (second approach)  
+
+ 
 ### report:
 
 propasal, report and slides
