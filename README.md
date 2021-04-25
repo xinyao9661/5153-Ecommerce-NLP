@@ -4,11 +4,11 @@
 
 ### team: 
 
-Anqi Dong (A0218944W)
-Hui Xinyao (A0148006M) 
-Zhao Dongyu (A0206513R)
-Xinyi Li (A0218908W)
-Zhang Yixuan (A0218975M)
+Anqi Dong (A0218944W)  
+Hui Xinyao (A0148006M)   
+Zhao Dongyu (A0206513R)  
+Xinyi Li (A0218908W)  
+Zhang Yixuan (A0218975M)  
 
 ### code:
 
@@ -42,7 +42,8 @@ Overall Sentiment Score.ipynb
 #### original dataset from Amazon
 
 meta_Beauty.json(larger than 25mb, so only sample)  
-reviews_Beaut.json(larger than 25mb, so only sample)  
+reviews_Beaut.json(larger than 25mb, so only sample)    
+http://jmcauley.ucsd.edu/data/amazon/index_2014.html
 
 ### dataset after preprocessing
 
