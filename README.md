@@ -2,7 +2,7 @@
 
 ### Ranking Forecast on Hair Care Products
 
-### team: 
+### Group13: 
 
 Dong Anqi(A0218944W)  
 Hui Xinyao (A0148006M)   
