@@ -47,11 +47,11 @@ meta_Beauty.json(larger than 25mb, so only sample)
 reviews_Beaut.json(larger than 25mb, so only sample)    
 http://jmcauley.ucsd.edu/data/amazon/index_2014.html
 
-### dataset after preprocessing
+#### dataset after preprocessing
 
 meta_and_review_original.csv  
 
-### dataset with all features
+#### dataset with all features
 meta_and_review_with_functions_and_all_aspects.csv (1st approach) (larger than 25mb, so only sample)    
 functions_and_aspects_v2.csv (second approach)  
 
