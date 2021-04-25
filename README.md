@@ -31,10 +31,10 @@ Overall Sentiment Score .ipynb
 
 ### data:
 
-reviews_full_cond and sham_no duplicates.csv
-meta_and_review_sentiment_delivery_customer_package_price_updated.csv
-meta_and_review_original.csv
-functions_and_aspects_v2.csv
+reviews_full_cond and sham_no duplicates.csv  
+meta_and_review_sentiment_delivery_customer_package_price_updated.csv  
+meta_and_review_original.csv  
+functions_and_aspects_v2.csv  
 
 ### report:
 
