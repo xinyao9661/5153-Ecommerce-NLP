@@ -30,7 +30,7 @@ Sentiment Analysis - Package.ipynb
 
 5153_aspect_sentiment_xy.ipynb  
 
-#### overall Sentiment per review:  
+#### Overall sentiment per review:  
 
 Overall Sentiment Score.ipynb
 
